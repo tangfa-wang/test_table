@@ -1,5 +1,5 @@
 # test_table
-这是一个数仓用户点击购买表
+这是一个wordcount
 /**
  * WordCount.java
  * com.hainiu.day01
@@ -26,7 +26,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 /**
  * 写mapreduce程序实现单词统计
- * @author    潘牛
+ * @author   tangfa
  * @Date	 2020年12月28日 	 
  */
 public class WordCount {
